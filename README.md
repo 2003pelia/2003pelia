@@ -1,7 +1,16 @@
-  _   _      _ _          ___ _             ____                _              
- | | | | ___| | | ___    |_ _( )_ __ ___   |  _ \ _ __ ___  ___| |_ ___  _ __  
- | |_| |/ _ \ | |/ _ \    | ||/| '_ ` _ \  | |_) | '__/ _ \/ __| __/ _ \| '_ \ 
- |  _  |  __/ | | (_) |   | |  | | | | | | |  __/| | |  __/\__ \ || (_) | | | |
- |_| |_|\___|_|_|\___( ) |___| |_| |_| |_| |_|   |_|  \___||___/\__\___/|_| |_|
-                     |/                                                        
- 
+developer = DeveloperProfile(
+    name="Preston Elia",
+    university="SUNY Oswego",
+    languages=["Python", "Powershell", "Java", "C#"],
+    tools=["VS Code", "Git"]
+)
+
+projects_info = developer.display_projects()
+skills_info = developer.display_skills()
+connect_info = developer.connect()
+collaborate_info = developer.collaborate(ideas="Let's create something amazing!")
+
+print(projects_info)
+print(skills_info)
+print(connect_info)
+print(collaborate_info)
