@@ -1,16 +1,18 @@
-''' developer = DeveloperProfile( '''
-    name="Preston Elia",
-    university="SUNY Oswego",
-    languages=["Python", "Powershell", "Java", "C#"],
-    tools=["VS Code", "Git"]
-)
+# Hello, I'm Preston Elia
 
-projects_info = developer.display_projects()
-skills_info = developer.display_skills()
-connect_info = developer.connect()
-collaborate_info = developer.collaborate(ideas="Let's create something amazing!")
+I'm a passionate student developer with knowlege in Java, C#, Python, and PowerShell.
+```shell
+~$ whoami
 
-print(projects_info)
-print(skills_info)
-print(connect_info)
-print(collaborate_info) 
+ - Student at Suny Oswego
+ - Studying Information Science
+
+~$ skills
+
+- Languages: Java, C#, Python, PowerShell
+- Tools: VS Code and Git
+
+~$ connect
+
+- LinkedIn: https://www.linkedin.com/in/preston-elia-8a5a00299/
+- Email: eliapreston70@gmail.com
