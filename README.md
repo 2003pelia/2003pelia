@@ -1,4 +1,4 @@
-developer = DeveloperProfile(
+''' developer = DeveloperProfile(
     name="Preston Elia",
     university="SUNY Oswego",
     languages=["Python", "Powershell", "Java", "C#"],
@@ -13,4 +13,4 @@ collaborate_info = developer.collaborate(ideas="Let's create something amazing!"
 print(projects_info)
 print(skills_info)
 print(connect_info)
-print(collaborate_info)
+print(collaborate_info) '''
