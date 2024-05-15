@@ -1,6 +1,6 @@
 # Hello, I'm Preston Elia
 
-I'm a passionate student developer with knowlege in Java, C#, Python, and PowerShell.
+I'm a passionate student developer with knowlege in Python, JavaScript, HTML, and CSS
 ```shell
 ~$ whoami
 
@@ -9,7 +9,8 @@ I'm a passionate student developer with knowlege in Java, C#, Python, and PowerS
 
 ~$ skills
 
-- Languages: Java, C#, Python, PowerShell
+- Languages: Java, C#, Python, JavaScript, HTML, and CSS
+- Frameworks: Vue.js
 - Tools: VS Code and Git
 
 ~$ connect
