@@ -1,6 +1,6 @@
 # Hello, I'm Preston Elia
 
-I'm a passionate student developer with knowlege in Python, JavaScript, HTML, and CSS
+I'm a passionate student developer with knowlege in Java, Python, JavaScript, HTML, and CSS
 ```shell
 ~$ whoami
 
@@ -9,7 +9,7 @@ I'm a passionate student developer with knowlege in Python, JavaScript, HTML, an
 
 ~$ skills
 
-- Languages: Java, C#, Python, JavaScript, HTML, and CSS
+- Languages: Java, Python, JavaScript, HTML, and CSS
 - Frameworks: Vue.js
 - Tools: VS Code and Git
 
