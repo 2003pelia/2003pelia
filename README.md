@@ -1,19 +1,45 @@
-# Hello, I'm Preston Elia
+# Preston Elia — GitHub Profile README (Terminal Style)
 
-I'm a passionate student developer with knowlege in Java, Python, JavaScript, HTML, and CSS
-```shell
-~$ whoami
+```bash
+# welcome to my profile
+preston@workstation:~$ whoami
+> Preston Elia
+> Information Science · SUNY Oswego · Class of 2026
 
- - Student at Suny Oswego
- - Studying Information Science
+preston@workstation:~$ echo "about me"
+> Motivated, detail-oriented Information Science student focused on IT and Cybersecurity.
+> Hands-on experience in technical support, system troubleshooting, and software development.
+> Currently preparing for CompTIA Security+ to deepen network security and risk management skills.
 
-~$ skills
+preston@workstation:~$ cat experience
+> IT Help Desk Technician @ United Radio
+>  └── Jul 2022 — Aug 2024
+>  └── Supported 200+ employees (Windows, Linux)
+>  └── Tracked & resolved tickets with Jira
+>  └── Assisted with imaging, upgrades, and secure user access
+>  └── Collaborated on improved troubleshooting & cybersecurity awareness
 
-- Languages: Java, Python, JavaScript, HTML, and CSS
-- Frameworks: Vue.js
-- Tools: VS Code and Git
+preston@workstation:~$ cat skills
+> Operating Systems:  Windows, Linux
+> Languages & Scripting: Python, Java, Bash, Git
+> Tools & Platforms: Jira, VirtualBox
+> IT: Hardware troubleshooting, system setup, user support, cybersecurity fundamentals
 
-~$ connect
+preston@workstation:~$ cat certifications
+> CompTIA Security+ (In Progress)
 
-- LinkedIn: https://www.linkedin.com/in/preston-elia-8a5a00299/
-- Email: eliapreston70@gmail.com
+preston@workstation:~$ echo "goals"
+> 1) Earn CompTIA Security+
+> 2) Transition into Red Team / Penetration Testing
+> 3) Contribute to open-source security projects
+> 4) Build and share security testing tools
+
+preston@workstation:~$ ls -la contacts
+> Location: Camillus, NY
+> Email: eliapreston7@gmail.com
+> GitHub: https://github.com/2003pelia
+
+preston@workstation:~$ fortune
+> "Continuous learning is the key to strong security."
+
+preston@workstation:~$ logout
