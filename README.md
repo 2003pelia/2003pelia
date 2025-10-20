@@ -1,4 +1,4 @@
-# Preston Elia — GitHub Profile README (Terminal Style)
+# Preston Elia 
 
 ```bash
 # welcome to my profile
