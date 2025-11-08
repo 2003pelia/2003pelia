@@ -9,15 +9,7 @@ preston@workstation:~$ whoami
 preston@workstation:~$ echo "about me"
 > Motivated, detail-oriented Information Science student focused on IT and Cybersecurity.
 > Hands-on experience in technical support, system troubleshooting, and software development.
-> Currently preparing for CompTIA Security+ to deepen network security and risk management skills.
-
-preston@workstation:~$ cat experience
-> IT Help Desk Technician @ United Radio
->  └── Jul 2022 — Aug 2024
->  └── Supported 200+ employees (Windows, Linux)
->  └── Tracked & resolved tickets with Jira
->  └── Assisted with imaging, upgrades, and secure user access
->  └── Collaborated on improved troubleshooting & cybersecurity awareness
+> Currently preparing for Cisco CCNA to deepen networking.
 
 preston@workstation:~$ cat skills
 > Operating Systems:  Windows, Linux
@@ -26,18 +18,17 @@ preston@workstation:~$ cat skills
 > IT: Hardware troubleshooting, system setup, user support, cybersecurity fundamentals
 
 preston@workstation:~$ cat certifications
-> CompTIA Security+ (In Progress)
+> Cisco CCNA (In Progress)
 
 preston@workstation:~$ echo "goals"
-> 1) Earn CompTIA Security+
-> 2) Transition into Red Team / Penetration Testing
-> 3) Contribute to open-source security projects
-> 4) Build and share security testing tools
+> 1) Earn Cisco CCNA
+> 2) Transition From Help Desk to Network Engineer
+> 3) Contribute to open-source Networking projects
+> 4) Build and share Networking testing tools
 
 preston@workstation:~$ ls -la contacts
 > Location: Camillus, NY
 > Email: eliapreston7@gmail.com
-> GitHub: https://github.com/2003pelia
 
 preston@workstation:~$ fortune
 > "Continuous learning is the key to strong security."
