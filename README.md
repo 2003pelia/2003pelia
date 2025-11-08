@@ -15,7 +15,7 @@ preston@workstation:~$ cat skills
 > Operating Systems:  Windows, Linux
 > Languages & Scripting: Python, Java, Bash, Git
 > Tools & Platforms: Jira, VirtualBox
-> IT: Hardware troubleshooting, system setup, user support, cybersecurity fundamentals
+> IT: Hardware troubleshooting, system setup, user support, Networking fundamentals
 
 preston@workstation:~$ cat certifications
 > Cisco CCNA (In Progress)
